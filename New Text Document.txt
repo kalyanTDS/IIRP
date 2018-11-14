@@ -1,0 +1,8 @@
+1.first fetch the code-git fetch
+
+apis
+https://api.iotworldlabs.io/iirp/?guid=2d1c67b5-c791-4210-86e3-2e86770cde60&a=find&ot=T_bridgestone_iirp.Preteckt_Units_01
+https://devdata.d4dt.io/iirp/?guid=3d1c67b5-c791-4210-86e3-2e86770cde61&a=find&ot=T_bridgestone_iirp&ot=T_bridgestone_iirp.DM_brst_truck_tire
+https://devdata.d4dt.io/iirp/?guid=3d1c67b5-c791-4210-86e3-2e86770cde61&a=find&ot=T_bridgestone_iirp&a=find&ot=T_bridgestone_iirp.DS0_Fleet_Vehicle_Tire_Map
+https://api.iotworldlabs.io/viz/?apiKey=eace6440-465a-4c3e-bb8f-b23645c33fbb&id=brst.tire.data&tire_uid=80001006
+https://api.iotworldlabs.io/viz/?apiKey=eace6440-465a-4c3e-bb8f-b23645c33fbb&id=brst.vehicle.data&VUID=V464_AL-truck514
