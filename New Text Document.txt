@@ -7,4 +7,3 @@ https://devdata.d4dt.io/iirp/?guid=3d1c67b5-c791-4210-86e3-2e86770cde61&a=find&o
 https://api.iotworldlabs.io/viz/?apiKey=eace6440-465a-4c3e-bb8f-b23645c33fbb&id=brst.tire.data&tire_uid=80001006
 https://api.iotworldlabs.io/viz/?apiKey=eace6440-465a-4c3e-bb8f-b23645c33fbb&id=brst.vehicle.data&VUID=V464_AL-truck514
 
-all the api are here only
